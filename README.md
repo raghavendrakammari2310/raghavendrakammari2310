@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @raghavendrakammari
 - 👀 I’m interested in Embedded Systems and AI
-- 🌱 I’m currently learning Python(Advanced) and C++(Basic)
-- 💞️ I’m looking to collaborate on Embedded projects, Automotive, Spectroscopy based projects
+- 🌱 I have experience in following languages Python(Advanced), SAP Fiori UI5(Intermediate), DATA analysis, and C++(Basic)
+- 🌱 I’m currently learning SAP UI5 Fiori
+- 💞️ I’m looking to collaborate on SAP projects
+- 💞️ I gained handfull of experience with the Embedded projects, Automotive, AI and Spectroscopy based projects
 - 📫 How to reach me: raghavendra.kammari@yahoo.com - +4917643165192
 
 <!---
